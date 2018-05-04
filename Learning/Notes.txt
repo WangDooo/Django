@@ -1,0 +1,2 @@
+自强学堂
+https://code.ziqiangxuetang.com/django/django-intro.html
