@@ -1,0 +1,15 @@
+<------视图与网址------------------------------------------------------>
+1.首先，新建一个项目(project), 名称为 mysite
+	django-admin startproject mysite
+2.新建一个应用(app), 名称叫 learn
+	python manage.py startapp learn
+3.把我们新定义的app加到settings.py中的INSTALL_APPS中
+修改 mysite/mysite/settings.py
+4.定义视图函数（访问页面时的内容）
+在learn这个目录中,把views.py打开,修改其中的源代码
+5.定义视图函数相关的URL(网址) （即规定 访问什么网址对应什么内容）
+打开 mysite/mysite/urls.py 这个文件, 修改其中的代码
+
+<------视图与网址进阶------------------------------------------------------>
+
+
