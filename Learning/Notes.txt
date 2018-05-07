@@ -1,4 +1,11 @@
-自强学堂
+<-------------------------------------------------------------->
+自强学堂 - 2.0
 https://code.ziqiangxuetang.com/django/django-intro.html
-W3Cschool
+<-------------------------------------------------------------->
+W3Cschool - 1.X
 https://www.w3cschool.cn/django/
+<-------------------------------------------------------------->
+djangoproject - 2.0
+https://www.djangoproject.com/
+https://docs.djangoproject.com/zh-hans/2.0/intro/tutorial01/
+<-------------------------------------------------------------->
