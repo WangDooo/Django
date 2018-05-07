@@ -1,2 +1,4 @@
 自强学堂
 https://code.ziqiangxuetang.com/django/django-intro.html
+W3Cschool
+https://www.w3cschool.cn/django/

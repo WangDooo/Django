@@ -11,5 +11,9 @@
 打开 mysite/mysite/urls.py 这个文件, 修改其中的代码
 
 <------视图与网址进阶------------------------------------------------------>
-
+在网页上做加减法
+1. 采用 /add/?a=4&b=5 这样GET方法进行
+django-admin startproject zqxt_views
+cd zqxt_views
+python manage.py startapp calc
 
